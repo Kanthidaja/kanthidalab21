@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: Kanthida Khunyotying
+# STUDENT ID: 670610673
